@@ -19,3 +19,4 @@ DerivedData
 
 # SoundForge temp
 *.sfk
+bin/mult_MirrorDebug.app
